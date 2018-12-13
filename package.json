@@ -6,7 +6,7 @@
     "email": "hello@getsirius.io",
     "url": "https://getsirius.io"
   },
-  "version": "0.11.4",
+  "version": "0.11.6",
   "repository": "git://github.com/siriuscore/sirius-explorer.git",
   "contributors": [],
   "bugs": {
